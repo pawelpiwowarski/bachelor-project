@@ -1,0 +1,2 @@
+Best learning rate: 1.025644191862583e-03
+Best per_device_train_batch_size: 32
